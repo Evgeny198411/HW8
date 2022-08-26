@@ -1,0 +1,15 @@
+D:\Evgeny\HW8\task58\bin\Debug\net6.0\task58.exe
+D:\Evgeny\HW8\task58\bin\Debug\net6.0\task58.deps.json
+D:\Evgeny\HW8\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+D:\Evgeny\HW8\task58\bin\Debug\net6.0\task58.dll
+D:\Evgeny\HW8\task58\bin\Debug\net6.0\task58.pdb
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.dll
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\refint\task58.dll
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.pdb
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
+D:\Evgeny\HW8\task58\obj\Debug\net6.0\ref\task58.dll
