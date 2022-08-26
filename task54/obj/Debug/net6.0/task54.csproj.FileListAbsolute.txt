@@ -1,0 +1,15 @@
+D:\Evgeny\HW8\task54\bin\Debug\net6.0\task54.exe
+D:\Evgeny\HW8\task54\bin\Debug\net6.0\task54.deps.json
+D:\Evgeny\HW8\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+D:\Evgeny\HW8\task54\bin\Debug\net6.0\task54.dll
+D:\Evgeny\HW8\task54\bin\Debug\net6.0\task54.pdb
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.dll
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\refint\task54.dll
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.pdb
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+D:\Evgeny\HW8\task54\obj\Debug\net6.0\ref\task54.dll
